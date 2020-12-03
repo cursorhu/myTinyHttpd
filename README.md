@@ -1,5 +1,7 @@
 # myTinyhttpd
 
+博客：[Tinyhttpd: C实现的http服务器 -- 完全解析](http://47.100.221.149:9010/blog/post/admin/4b1c0becf3fb)
+
 用web浏览器访问,httpd环境需要安装perl和perl-CGI  
 
 1.CentOS上部署：
